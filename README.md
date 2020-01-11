@@ -8,7 +8,7 @@ This repository contains the following:
 - Binary search method to improve efficiency of computation
 - Uncertainty of estimates
 
-**Key result**
+**Key results**
 
 ![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figures/figure1_sample_complexity.png)
 
@@ -22,4 +22,4 @@ This repository contains the following:
 
 **Key results**
 ![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figures/figure2_worst_images.png)
-![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figures/figure3_confusion_mat.png)
+![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figures/figure3_confusion_matrix.png)
