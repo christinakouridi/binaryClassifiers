@@ -10,7 +10,7 @@ This repository contains the following:
 
 <u>Key result</u>
 
-![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/fig1_sample_complexity.png)
+![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figure1_sample_complexity.png)
 
 
 **2. Implementation from scratch of a one-versus-all Kernel Perceptron**
@@ -21,5 +21,5 @@ This repository contains the following:
 - Identification of images that are the hardest to classify
 
 <u>Key results</u>
-![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/fig2_worst_images.png)
-![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/fig3_confusion_matrix.png)
+![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figure2_worst_images.png)
+![Alt Text](https://github.com/christinakouridi/binaryClassifiers/blob/master/figure3_confusion_matrix.png)
